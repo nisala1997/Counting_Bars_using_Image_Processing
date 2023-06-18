@@ -24,6 +24,6 @@ Counting Bars using Image Processing is a technique that utilizes computer visio
 <li>Tesseract ocr engine <br>
   
   
-    pip install pytesseract
+    pip install numpy
     
 </body>
