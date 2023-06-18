@@ -25,6 +25,7 @@ Counting Bars using Image Processing is a technique that utilizes computer visio
   
     pip install numpy
     
-</body>
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=footer)
+    
+</body>
 
