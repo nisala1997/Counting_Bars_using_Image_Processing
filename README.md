@@ -7,8 +7,6 @@ Counting Bars using Image Processing is a technique that utilizes computer visio
     </body>
 
 # Project Requirements
-<li>Raspberry Pi version 3 or + <br>
-<li>Webcam <br>
 <li>OpenCV <br>
 
   
