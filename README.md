@@ -3,7 +3,7 @@ Counting Bars using Image Processing is a technique that utilizes computer visio
 
 <h2>Processing Images</h2>
   <body>
-<img src="/Figure .png">
+<img src="/Figure_1.png">
     </body>
 
 # Project Requirements
